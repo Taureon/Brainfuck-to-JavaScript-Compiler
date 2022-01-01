@@ -2,7 +2,7 @@
 Compiles (or converts) Brainfuck (.bf) into Javascript (.js)
 
 **How to use:**
-- Make a `source.bf` file.
+- Make a `source.bf` file in the same directory as `BFtoJS.js`.
 - Put the brainfuck source code in it.
 - Run `BFtoJS.js`. (Optional launch option for a custom buffer size in bytes)
 - Drop in `compiled.js` anywhere you need it to! (You can rename the `BFCompiled` function to anything else)
